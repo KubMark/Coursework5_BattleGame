@@ -1,3 +1,2 @@
-# coursework_5
-
-# Для выполнения курсовой работы также можно воспользоваться папкой help files
+# Сoursework №5
+This is a small game with a web interface about the battle of heroes in the style of old-school browser games.
